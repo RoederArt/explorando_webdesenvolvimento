@@ -1,0 +1,40 @@
+.hd_index {
+    text-align: center;
+}
+
+.mn_index {
+    text-align: center;
+    height: 71vh;
+}
+
+.ft_index {
+    text-align: center;
+}
+
+.img_php {
+    width: 200px;
+    height: 200px;
+}
+
+.img_html {
+    width: 200px;
+    height: 200px;
+}
+
+.img_sql {
+    width: 200px;
+    height: 200px;
+}
+
+.mrg_index {
+    margin-right: 180px;
+}
+
+.flx_index {
+    display: flex;
+    justify-content: center;
+}
+
+.mrg_tt_index {
+    margin: 80px;
+}
